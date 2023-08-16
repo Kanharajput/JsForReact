@@ -16,3 +16,7 @@
 - Destructure array like we do in python where we assign mulitple values at the same time here it use it with array, 
 - Destructuring with objects will let us to use the field name of objects not like arrays first variable is assigned to 
     index 0, second var is assigned to index 1 and so on. 
+
+- Also we can destructure the function parameters like this
+    - function login({id, pass}), call it like this login(user) or login({id:1, pass:"3eq4sdf"});
+    - user is object which has the variables id, pass, last_login, is_admin etc but only acquire the needed one. 
