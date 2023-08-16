@@ -8,6 +8,6 @@ import { apiKey2,apiKey3 } from "./export.js";
 // import as object
 import * as utils from "./export.js";
 
-console.log(utils.apiKey3);
+console.log(utils.apiKey3); 
 console.log(apiKey);
 console.log(apikey1);
