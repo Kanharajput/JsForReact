@@ -4,3 +4,5 @@
 - Javascript has 4 types of variables named String, Number, Boolean, Null & Undefined.
     - can't use whitespace , dash (-) and alphanumeric characters except $ and underscore( _ ) can be used in defining a
         vaiable name.
+
+- Have all the operators(=, <=, >=, <,>, !=) which we have in other programming languages. Only difference is === to check equality.
