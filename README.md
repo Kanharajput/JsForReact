@@ -12,3 +12,7 @@
     lines of code inside the component or we want that function
 
 - Arrays are just as normal as other programming languages.
+
+- Destructure array like we do in python where we assign mulitple values at the same time here it use it with array, 
+- Destructuring with objects will let us to use the field name of objects not like arrays first variable is assigned to 
+    index 0, second var is assigned to index 1 and so on. 
