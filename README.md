@@ -23,3 +23,7 @@
 
 - Passing function as function parameter in js we are not bound to only pass values inside the function parameter but also 
     we can pass function as a parameter and the function which got function in a parameter can run it when it's needed.
+
+- In react : function inside a function is a pretty common thing in react, but it's not in js. The interior function are only
+    call inside the function not from outside of the function.
+
