@@ -20,3 +20,6 @@
 - Also we can destructure the function parameters like this
     - function login({id, pass}), call it like this login(user) or login({id:1, pass:"3eq4sdf"});
     - user is object which has the variables id, pass, last_login, is_admin etc but only acquire the needed one. 
+
+- Passing function as function parameter in js we are not bound to only pass values inside the function parameter but also 
+    we can pass function as a parameter and the function which got function in a parameter can run it when it's needed.
