@@ -10,4 +10,3 @@ fullName = "Harshwerdhan Tomar";
 // naam = "Harshwerdhan Tomar"; can't assign
 
 console.log(fullName);
-
