@@ -27,3 +27,7 @@
 - In react : function inside a function is a pretty common thing in react, but it's not in js. The interior function are only
     call inside the function not from outside of the function.
 
+- Primitive and Refrence variables. Primitive  variables don't store the address of the memore where the data is stored they 
+    store the actual values that's why if the primitive variable is const then we can't edit it but this is not the case
+    in Refrence variable , refrence variable stores the address of the data so that we can make change to it . In js 
+    array and objects are the refrence variables. Basically const specify that we can't change the memory address but can change the value at that memory address.
